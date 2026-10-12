@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+~$*.docx
+
+# Personal application documents
+Lihao_Chen*.docx
+
+# Early learning scripts superseded by the reusable modules
+2.py
+continuous_market.py
+plot_results.py
+def evaluate_trade(buyer_value, seller_c.py
